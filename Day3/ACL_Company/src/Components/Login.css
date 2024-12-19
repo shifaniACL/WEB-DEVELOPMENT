@@ -1,0 +1,55 @@
+.container {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #fdfcfc;
+    border-radius: 10px;
+    text-align: center;
+    
+    box-shadow: 0 4px 8px rgb(250, 239, 239);
+   
+  }
+  
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .input-group {
+    margin-bottom: 15px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #131212;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 16px;
+    color: #0d0a0a;
+    background-color: #ff009983;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .checkbox{
+    display: flex;
+    background-color: rgb(255, 0, 187);
+  }
+  .checkbox input{
+    display: inline-block;
+  }
+  .show{
+
+  }
