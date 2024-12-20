@@ -17,7 +17,7 @@ const Login = () => {
           <br></br>
           <form>
             <div>
-              <label htmlFor="">USERNAME :</label><br />
+              
               <input
                 type="username"
                 placeholder="Username"
@@ -25,7 +25,7 @@ const Login = () => {
             </div>
             <br></br>
             <div>
-              <label htmlFor="">PASSWORD :</label><br></br>
+              
               <input
                 type="password"
                 placeholder="Password"

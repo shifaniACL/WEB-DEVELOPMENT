@@ -15,7 +15,7 @@ const Register = () => {
           />
           <form>
             <div className="input-group">
-              <label htmlFor="username">USERNAME :</label>
+              
               <input
                 id="username"
                 type="text"
@@ -23,7 +23,7 @@ const Register = () => {
               />
             </div>
             <div className="input-group">
-              <label htmlFor="email">EMAIL :</label>
+              
               <input
                 id="email"
                 type="email"
@@ -31,7 +31,7 @@ const Register = () => {
               />
             </div>
             <div className="input-group">
-              <label htmlFor="password">PASSWORD :</label>
+              
               <input
                 id="password"
                 type="password"
@@ -39,7 +39,7 @@ const Register = () => {
               />
             </div>
             <div className="input-group">
-              <label htmlFor="confirm-password">CONFIRM PASSWORD :</label>
+              
               <input
                 id="confirm-password"
                 type="password"

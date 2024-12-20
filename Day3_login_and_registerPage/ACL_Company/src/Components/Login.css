@@ -1,12 +1,12 @@
 .container {
     width: 300px;
-    margin: 100px auto;
+    margin: 80px auto;
     padding: 20px;
     border: 1px solid #fdfcfc;
-    border-radius: 10px;
+    border-radius: 30px;
     text-align: center;
-    
-    box-shadow: 0 4px 8px rgb(250, 239, 239);
+    background-color: white;
+    box-shadow: 0 4px 8px rgb(14, 13, 13);
    
   }
   
@@ -20,6 +20,7 @@
   form {
     display: flex;
     flex-direction: column;
+    background-color: white;
   }
   
   .input-group {
@@ -38,18 +39,16 @@
     padding: 10px;
     font-size: 16px;
     color: #0d0a0a;
-    background-color: #ff009983;
+    background-color: #0f0f0f2d;
     border: none;
     border-radius: 5px;
     cursor: pointer;
   }
   .checkbox{
     display: flex;
-    background-color: rgb(255, 0, 187);
+    background-color: rgba(8, 8, 8, 0.904);
   }
   .checkbox input{
     display: inline-block;
   }
-  .show{
-
-  }
+ 
